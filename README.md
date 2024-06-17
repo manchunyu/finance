@@ -1,2 +1,2 @@
 # finance
-CS50's Finance problem set.
+CS50's Finance web app.
